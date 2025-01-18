@@ -12,3 +12,4 @@ A collection of methods of various data types
 - **Long Methods**: Screenshot of Long methods.
 - **Float Methods**: Screenshot of Float methods.
 - **Double Methods**: Screenshot of Double methods. 
+- **Array Methods**: Screenshot of Array methods.
